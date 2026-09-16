@@ -99,5 +99,4 @@ will be announced in the app's release notes.
 
 ## Contact
 
-Questions about this policy or your data: please
-[open an issue on this repository](https://github.com/TonyLei43/kofinote-privacy/issues).
+Questions about this policy or your data: **tonyllei54@gmail.com**
